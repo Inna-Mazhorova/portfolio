@@ -15,4 +15,5 @@
 | [Определение перспективного тарифа для телеком компании](https://github.com/Inna-Mazhorova/portfolio/tree/main/phone)| Анализ поведения клиентов и рекомендации по оптимальному тарифу. | *pandas, numpy, scipy, matplotlib* |
 | [Определение токсичных комментариев](https://github.com/Inna-Mazhorova/portfolio/tree/main/comments)| Построение модели для поиска токсичных комментариев. | *pandas, numpy, sklearn, NLTK, lightgbm, catboost* |
 | [Отток клиентов банка](https://github.com/Inna-Mazhorova/portfolio/tree/main/bank)| Построение модели для предсказания факта ухода клиента. | *pandas, numpy, sklearn, matplotlib* |
+| [Прогнозирование оттока клиентов телеком компании](https://github.com/Inna-Mazhorova/portfolio/tree/main/telecom)| Построение модели для предсказания факта ухода клиента. | *pandas, numpy, sklearn, lightgbm, catboost, matplotlib, gridsearch* |
 
